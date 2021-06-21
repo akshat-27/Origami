@@ -1,0 +1,29 @@
+h1{
+    color: #358492;
+    margin: 30px;
+}
+.header{
+    background-color: #573829;
+    border-style: inset;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 5px solid red;
+}
+body{
+    background-color: lightgreen;
+    border-style: inset;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.site-description{
+    color: rgb(0, 191, 255);
+    font-family: "Helvetica";
+    font-size: 30px;
+}
